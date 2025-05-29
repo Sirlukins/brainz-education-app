@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" fill="none">
+  <!-- Background -->
+  <rect width="400" height="400" fill="#292929"/>
+  
+  <!-- Brain silhouette -->
+  <path d="M200 70C139.249 70 90 119.249 90 180C90 204.333 99.5 226.5 115 243C122.667 251.333 131.5 258.5 141.5 264.5C156.5 273.5 173.5 280 186 299C191.167 307.167 196.167 316.167 200 330C203.833 316.167 208.833 307.167 214 299C226.5 280 243.5 273.5 258.5 264.5C268.5 258.5 277.333 251.333 285 243C300.5 226.5 310 204.333 310 180C310 119.249 260.751 70 200 70Z" fill="#3D1155"/>
+  
+  <!-- Zombie-themed details -->
+  <path d="M145 160C148.866 160 152 156.866 152 153C152 149.134 148.866 146 145 146C141.134 146 138 149.134 138 153C138 156.866 141.134 160 145 160Z" fill="#4DFF00"/>
+  <path d="M255 160C258.866 160 262 156.866 262 153C262 149.134 258.866 146 255 146C251.134 146 248 149.134 248 153C248 156.866 251.134 160 255 160Z" fill="#4DFF00"/>
+  
+  <!-- Brain fissures/cracks with glowing green zombie theme -->
+  <path d="M143 200C143 200 169 220 200 220C231 220 257 200 257 200" stroke="#4DFF00" stroke-width="3"/>
+  <path d="M165 130C165 130 183 158 200 158C217 158 235 130 235 130" stroke="#4DFF00" stroke-width="3"/>
+  <path d="M165 250C165 250 183 222 200 222C217 222 235 250 235 250" stroke="#4DFF00" stroke-width="3"/>
+  
+  <!-- Vertical fissure -->
+  <path d="M200 110V290" stroke="#4DFF00" stroke-width="3"/>
+  
+  <!-- Text -->
+  <text x="200" y="350" font-family="Arial Black, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#FFFFFF">THOUGHT ZOMBIES</text>
+  
+  <!-- Glow effects -->
+  <circle cx="145" cy="153" r="15" fill="#4DFF00" opacity="0.3"/>
+  <circle cx="255" cy="153" r="15" fill="#4DFF00" opacity="0.3"/>
+  <ellipse cx="200" cy="200" rx="110" ry="80" fill="#4DFF00" opacity="0.05"/>
+</svg>
